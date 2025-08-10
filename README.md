@@ -1,6 +1,6 @@
 # 🌦️ WeatherSphere - Modern Weather Dashboard
 
-[![Live Demo](https://naveen-kumar-git.github.io/WeatherSphere/)
+https://naveen-kumar-git.github.io/WeatherSphere/
 
 
 A responsive weather application with real-time forecasts, interactive maps, and comprehensive air quality data.
