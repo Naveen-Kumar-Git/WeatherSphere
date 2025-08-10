@@ -1,11 +1,9 @@
 # 🌦️ WeatherSphere - Modern Weather Dashboard
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://yourusername.github.io/weather-app)
-![License](https://img.shields.io/badge/license-MIT-blue)
+[![Live Demo](https://naveen-kumar-git.github.io/WeatherSphere/)
+
 
 A responsive weather application with real-time forecasts, interactive maps, and comprehensive air quality data.
-
-![App Screenshot](./assets/screenshot.png)
 
 ## ✨ Features
 
